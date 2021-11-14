@@ -1,0 +1,8 @@
+ml
+rnd (sc x6)
+incs 5
+rnd x5
+rnd ss
+incs 8
+rnd x5
+decs 3
